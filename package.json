@@ -1,0 +1,18 @@
+
+{
+    "name": "adventofcode2019js",
+    "version": "1.0.0",
+    "description": "Advent of Code 2019",
+    "main": "index.js",
+    "author": "Allen Reinmeyer <areinmeyer@gmail.com> (https://areinmeyer.dev)",
+    "license": "MIT",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/areinmeyer/adventofcode2019js.git"
+    },
+    "devDependencies": {
+      "eslint": "^6.6.0"
+    }
+  }

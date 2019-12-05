@@ -13,3 +13,9 @@ To use import and arrow functions I used node v13.2.0 and all javascript files w
 
 The fuel.txt is a test file to validate simple examples that were provided on the Advent of Code website.
 [Advent of Code website](https://adventofcode.com/2019)
+
+## Advent Of Code Day 2
+
+Whew, that was more complex by far than day 1!
+
+Answer is 3895705 for part 1.
