@@ -18,4 +18,4 @@ The fuel.txt is a test file to validate simple examples that were provided on th
 
 Whew, that was more complex by far than day 1!
 
-Answer is 3895705 for part 1.
+Answer is 3895705 for part 1. I'll come back to this for cleanup.  I want to toggle the `restoreGravityAssist` so it can run without commenting that out.
